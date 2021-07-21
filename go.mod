@@ -6,4 +6,5 @@ require (
 	github.com/nautilus/gateway v0.1.18
 	github.com/nautilus/graphql v0.0.16
 	github.com/spf13/cobra v1.2.1
+	github.com/spf13/viper v1.8.1
 )
