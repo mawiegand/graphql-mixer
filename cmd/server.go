@@ -19,13 +19,22 @@ var serverCmd = &cobra.Command{
 
 func init() {
 	serverCmd.Flags().StringP("host", "H", "localhost", "Bind socket to this host.")
-	viper.BindPFlag("host", serverCmd.Flags().Lookup("host"))
+	if err := viper.BindPFlag("host", serverCmd.Flags().Lookup("host")); err != nil {
+		fmt.Println("Could not bind host flag:", err.Error())
+		os.Exit(1)
+	}
 
 	serverCmd.Flags().StringP("port", "P", "4000", "Bind socket to this port.")
-	viper.BindPFlag("port", serverCmd.Flags().Lookup("port"))
+	if err := viper.BindPFlag("port", serverCmd.Flags().Lookup("port")); err != nil {
+		fmt.Println("Could not bind port flag:", err.Error())
+		os.Exit(1)
+	}
 
 	serverCmd.Flags().StringSliceP("services", "s", []string{}, "Services to be federated.")
-	viper.BindPFlag("services", serverCmd.Flags().Lookup("services"))
+	if err := viper.BindPFlag("services", serverCmd.Flags().Lookup("services")); err != nil {
+		fmt.Println("Could not bind services flag:", err.Error())
+		os.Exit(1)
+	}
 
 	rootCmd.AddCommand(serverCmd)
 }
