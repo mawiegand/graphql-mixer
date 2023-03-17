@@ -17,6 +17,8 @@ jobs:
         go-version-file: 'go.mod'
     - name: golangci-lint
       uses: golangci/golangci-lint-action@v3
+      with:
+        args: -E decorder,gci,gofmt,gofumpt,goimports
   build:
     runs-on: ubuntu-latest
     steps:
