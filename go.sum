@@ -166,8 +166,8 @@ github.com/mitchellh/mapstructure v1.3.1/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RR
 github.com/mitchellh/mapstructure v1.4.1/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
-github.com/nautilus/gateway v0.3.5 h1:q3xqMLmSpfKDAYramMSE0kpenWPFObBQsaSewgQqlUE=
-github.com/nautilus/gateway v0.3.5/go.mod h1:ScTIYRI7EsVh4Zow+HCChmox7h1tZPscmCQQ8pziSq8=
+github.com/nautilus/gateway v0.3.6 h1:BdmcRegK7JZ/ciIN1qenNbNnWCCgx+LMHPJGn+77GmM=
+github.com/nautilus/gateway v0.3.6/go.mod h1:ScTIYRI7EsVh4Zow+HCChmox7h1tZPscmCQQ8pziSq8=
 github.com/nautilus/graphql v0.0.20/go.mod h1:UYcs/gBtuFrZyX591SuYboby4xFNG9ZkaTYk7BBSRak=
 github.com/nautilus/graphql v0.0.22 h1:mqZ57qW91yvu4/nESi4VSuAGCpR6AIskPxUN/6Bq6KU=
 github.com/nautilus/graphql v0.0.22/go.mod h1:eoqPxo/+IdRSfLQKZ2V0al2vYeoMJKO72XpTsUYOmFI=
