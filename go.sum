@@ -164,8 +164,8 @@ github.com/mitchellh/mapstructure v1.1.2/go.mod h1:FVVH3fgwuzCH5S8UJGiWEs2h04kUh
 github.com/mitchellh/mapstructure v1.3.1/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
-github.com/nautilus/gateway v0.3.9 h1:/ymIl2mESNANZowpz0D9oii6r3tuPuNoNX3i11Q3x6s=
-github.com/nautilus/gateway v0.3.9/go.mod h1:g1WDnDtMqkzjxzyTdU6+/uk08A3fhPYANIiNJVwA51I=
+github.com/nautilus/gateway v0.3.10 h1:wtlVi4bWaZ5rczC6Aj5cZwAkAroz5nMmAxAQ/07Nw9k=
+github.com/nautilus/gateway v0.3.10/go.mod h1:g1WDnDtMqkzjxzyTdU6+/uk08A3fhPYANIiNJVwA51I=
 github.com/nautilus/graphql v0.0.22 h1:mqZ57qW91yvu4/nESi4VSuAGCpR6AIskPxUN/6Bq6KU=
 github.com/nautilus/graphql v0.0.22/go.mod h1:eoqPxo/+IdRSfLQKZ2V0al2vYeoMJKO72XpTsUYOmFI=
 github.com/opentracing/opentracing-go v1.0.2/go.mod h1:UkNAQd3GIcIGf0SeVgPpRdFStlNbqXla1AfSYxPUl2o=
