@@ -3,7 +3,7 @@ module github.com/mawiegand/graphql-mixer
 go 1.20
 
 require (
-	github.com/nautilus/gateway v0.3.14
+	github.com/nautilus/gateway v0.3.16
 	github.com/nautilus/graphql v0.0.24
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
