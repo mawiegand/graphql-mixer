@@ -44,8 +44,8 @@ github.com/mattn/go-isatty v0.0.14/go.mod h1:7GGIvUiUoEMVVmxf/4nioHXj79iQHKdU27k
 github.com/mitchellh/mapstructure v1.3.1/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
-github.com/nautilus/gateway v0.3.14 h1:BfEZVf0vmRIyLCZOZZsGJQKFFa+FPTbq9tMcyaHGCNo=
-github.com/nautilus/gateway v0.3.14/go.mod h1:zAph68b/D9ohU95EhkidomVaWKH2wqvISR8WhMt2B0k=
+github.com/nautilus/gateway v0.3.16 h1:Y+w4hRbCrLxMyr2tMztBcD/k5/uCb9IXrF2FmrAypSI=
+github.com/nautilus/gateway v0.3.16/go.mod h1:i32oAbbkgEKKH3pe+m3cZxKY/0DOk8jD6VcBizPOnXE=
 github.com/nautilus/graphql v0.0.24 h1:0iO3yyw4+5zHO7t6NwEJeBuCy3aLnerGi2fXUTbEmEo=
 github.com/nautilus/graphql v0.0.24/go.mod h1:m9AgZTDzdCUL62Rw8CIwB3+JiOB52C+t3+ngOY9AEFM=
 github.com/opentracing/opentracing-go v1.2.0 h1:uEJPy/1a5RIPAJ0Ov+OIO8OxWu77jEv+1B0VhjKrZUs=
