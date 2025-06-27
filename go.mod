@@ -13,7 +13,7 @@ require (
 	github.com/99designs/gqlgen v0.17.15 // indirect
 	github.com/agnivade/levenshtein v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.8.0 // indirect
-	github.com/go-viper/mapstructure/v2 v2.2.1 // indirect
+	github.com/go-viper/mapstructure/v2 v2.3.0 // indirect
 	github.com/graph-gophers/dataloader v5.0.0+incompatible // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
