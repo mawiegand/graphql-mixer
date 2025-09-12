@@ -53,7 +53,7 @@ func initConfig() {
 			fmt.Printf("Running without config file!\n")
 		} else {
 			// Config file was found but another error was produced
-			panic(fmt.Errorf("Fatal error config file: %w \n", err))
+			panic(fmt.Errorf("fatal error config file: %w", err))
 		}
 	} else {
 		fmt.Println("Using config file:", viper.ConfigFileUsed())
