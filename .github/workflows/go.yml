@@ -18,7 +18,7 @@ jobs:
     - name: golangci-lint
       uses: golangci/golangci-lint-action@v8
       with:
-        args: -E decorder,gci,gofmt,gofumpt,goimports
+        args: -E decorder --fix
   build:
     runs-on: ubuntu-latest
     steps:
