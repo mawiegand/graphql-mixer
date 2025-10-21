@@ -1,10 +1,10 @@
 module github.com/mawiegand/graphql-mixer
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/nautilus/gateway v0.4.1
-	github.com/nautilus/graphql v0.0.26
+	github.com/nautilus/graphql v0.0.27
 	github.com/spf13/cobra v1.10.1
 	github.com/spf13/viper v1.21.0
 )
