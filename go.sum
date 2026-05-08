@@ -44,8 +44,8 @@ github.com/matryer/moq v0.2.7/go.mod h1:kITsx543GOENm48TUAQyJ9+SAvFSr7iGQXPoth/V
 github.com/mattn/go-colorable v0.1.12/go.mod h1:u5H1YNBxpqRaxsYJYSkiCWKzEfiAb1Gb520KVy5xxl4=
 github.com/mattn/go-isatty v0.0.14/go.mod h1:7GGIvUiUoEMVVmxf/4nioHXj79iQHKdU27kJ6hsGG94=
 github.com/mitchellh/mapstructure v1.3.1/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
-github.com/nautilus/gateway v0.4.2 h1:WiWiWukRhSjBgUYuN+ewtVCjYXW3XTdYqI8HviauMqM=
-github.com/nautilus/gateway v0.4.2/go.mod h1:/OXvgS39AzLsNdKmV42SY4d9aCVTIqLV0Pb6sKTSQ9c=
+github.com/nautilus/gateway v0.5.1 h1:fAXFB0T/B/Ht3ThVRraiF3x+Rp3/nSQsRFyoaDzkd7k=
+github.com/nautilus/gateway v0.5.1/go.mod h1:8FYr5bB+5dkCw73x25Y/kFeO4obCF929VWS+XdLh+eA=
 github.com/nautilus/graphql v0.0.27 h1:kNaeZ99NpKrMa8Fi6e+OLUt4LTfKjhM5jh3KYKftSF8=
 github.com/nautilus/graphql v0.0.27/go.mod h1:+UOVkjGOUUR7tSpGBJQTt5EPFGKt9jKlNdiOyhuh3gs=
 github.com/opentracing/opentracing-go v1.2.0 h1:uEJPy/1a5RIPAJ0Ov+OIO8OxWu77jEv+1B0VhjKrZUs=
