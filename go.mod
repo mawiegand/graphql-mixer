@@ -3,7 +3,7 @@ module github.com/mawiegand/graphql-mixer
 go 1.25.0
 
 require (
-	github.com/nautilus/gateway v0.5.2
+	github.com/nautilus/gateway v0.5.4
 	github.com/nautilus/graphql v0.0.27
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
@@ -28,6 +28,6 @@ require (
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/vektah/gqlparser/v2 v2.5.16 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/sys v0.37.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
 )
