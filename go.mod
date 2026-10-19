@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/nautilus/gateway v0.5.4
-	github.com/nautilus/graphql v0.0.27
+	github.com/nautilus/graphql v0.0.28
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 )
